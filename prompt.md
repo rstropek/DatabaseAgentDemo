@@ -11,7 +11,8 @@ Can you please take over from here? Perform the following tasks:
 * Create the API endpoints. Put all endpoint handlers in `Program.cs`.
 * Keep the code as simple as possible.
 * No need for unit tests yet.
+* No need for auth yet.
 * Make sure the code compiles.
-* Run the code and use curl requests to test the endpoints.
+* Run the code with `dotnet run` and use curl requests to test the endpoints.
 * Once done, create a commit (linked to the issue) and push the branch to GitHub. Create a pull request for the branch.
 * At the end, book the last 3 hours on the project _Alpha Tool_ in time cockpit via its MCP server.
